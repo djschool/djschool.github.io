@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
+한국탐사저널리즘센터(KCIJ) 뉴스타파에서는 KCIJ 데이터저널리즘 스쿨을 운영하고 있습니다.
 
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
+KCIJ 데이터저널리즘 스쿨은 데이터를 기반으로 한 탐사보도의 저변 확대와 미래 데이터 저널리스트 양성을 위해 뉴스타파 데이터저널리즘연구소에서 기획한 비영리 교육 프로그램입니다.
 
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+교육생으로 선발된 분은 탐사보도에 필요한 데이터 수집과 분석, 시각화 등을 뉴스타파 데이터 저널리스트들에게 직접 배울 수 있습니다. 이 과정을 거치면 데이터 저널리즘의 기초를 닦는 것은 물론, 데이터 저널리즘에 관심 있는 사람들과 지속적으로 교류하며 함께 성장해 나갈 수 있는 기회를 갖게 될 것입니다.
+
+교육 비용은 무료입니다.
