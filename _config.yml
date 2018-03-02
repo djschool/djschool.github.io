@@ -1,27 +1,24 @@
-title: Sleek # your site title
-author: GitHub User
-email: your-email@domain.com # email for form submission, you also have to change it in _js/scripts.js
+title: KCIJ_djschool # your site title
+author: djschool
+email: djschool@newstapa.org # email for form submission, you also have to change it in _js/scripts.js
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  KCIJ 데이터저널리즘 스쿨은 데이터를 기반으로 한 탐사보도의 저변 확대와 미래 데이터 저널리스트 양성을 위해 뉴스타파 데이터저널리즘연구소에서 기획한 비영리 교육 프로그램입니다.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://janczizikow.github.io/sleek" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
-github_username:  janczizikow # replace with your_github_username or comment to remove link from footer
-instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
+url: "https://djschool.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: newstapa # replace with your_twitter_username or comment to remove link from footer
+github_username:  djschool # replace with your_github_username or comment to remove link from footer
+instagram_username: newstapa # replace with your_instagram_username or comment to remove link from footer
 social:
-  name: Your Name
+  name: KCIJ_djschool
   links:
-    - https://twitter.com/BenBalter
-    - https://www.facebook.com/ben.balter
-    - https://www.linkedin.com/in/BenBalter
-    - https://plus.google.com/+BenBalter
-    - https://github.com/benbalter
-    - https://keybase.io/benbalter
+    - https://twitter.com/newstapa
+    - https://www.facebook.com/NEWSTAPA
+    - https://www.youtube.com/newstapa
+    - https://github.com/djschool
+    - https://www.instagram.com/newstapa
 
 disqus:
-  shortname: janczizikow # to enable comments replace with your_disqus_shortname
+  shortname: djschool # to enable comments replace with your_disqus_shortname
 
 # Build settings
 markdown: kramdown
