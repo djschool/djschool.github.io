@@ -5,9 +5,6 @@ description: > # this means to ignore newlines until "baseurl:"
   KCIJ 데이터저널리즘 스쿨은 데이터를 기반으로 한 탐사보도의 저변 확대와 미래 데이터 저널리스트 양성을 위해 뉴스타파 데이터저널리즘연구소에서 기획한 비영리 교육 프로그램입니다.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://djschool.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: newstapa # replace with your_twitter_username or comment to remove link from footer
-github_username:  djschool # replace with your_github_username or comment to remove link from footer
-instagram_username: newstapa # replace with your_instagram_username or comment to remove link from footer
 social:
   name: KCIJ_djschool
   links:
