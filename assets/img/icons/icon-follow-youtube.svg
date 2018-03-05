@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="31px" viewBox="0 0 31 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>youtube_Color</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Mobile-Small-(-&gt;320px)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-127.000000, -1599.000000)">
+        <g id="8-푸터" transform="translate(0.000000, 1477.000000)">
+            <g id="Group-3" transform="translate(20.000000, 38.000000)">
+                <g id="youtube" transform="translate(108.000000, 85.000000)">
+                    <path d="M0,14.5 C0,6.49187073 6.49187073,0 14.5,0 C22.5081293,0 29,6.49187073 29,14.5 C29,22.5081293 22.5081293,29 14.5,29 C6.49187073,29 0,22.5081293 0,14.5 Z" id="back" stroke="#666666"></path>
+                    <path d="M21.5,11.1680767 C21.5,9.97058897 20.5298933,9 19.3330686,9 L9.16650938,9 C7.96992587,9 7,9.97083009 7,11.1680767 L7,16.9818449 C7,18.1793327 7.97010672,19.1499216 9.16650938,19.1499216 L19.3328878,19.1499216 C20.5299536,19.1499216 21.4998192,18.1790915 21.4998192,16.9818449 L21.4998192,11.1680767 L21.5,11.1680767 Z M12.7995419,16.5275652 L12.7995419,11.0670453 L16.9405647,13.7974258 L12.7995419,16.5275652 Z" id="Shape" fill="#666666" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

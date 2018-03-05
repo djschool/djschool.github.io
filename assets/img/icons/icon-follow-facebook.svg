@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="31px" viewBox="0 0 31 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Facebook_Color</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Mobile-Small-(-&gt;320px)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-19.000000, -1599.000000)">
+        <g id="8-푸터" transform="translate(0.000000, 1477.000000)">
+            <g id="Group-3" transform="translate(20.000000, 38.000000)">
+                <g id="Facebook" transform="translate(0.000000, 85.000000)">
+                    <path d="M0,14.5 C0,6.49187073 6.49187073,0 14.5,0 C22.5081293,0 29,6.49187073 29,14.5 C29,22.5081293 22.5081293,29 14.5,29 C6.49187073,29 0,22.5081293 0,14.5 Z" id="back" stroke="#666666"></path>
+                    <path d="M15.6546943,23 L15.6546943,14.9990633 L17.7255649,14.9990633 L18,12.2418961 L15.6546943,12.2418961 L15.6582127,10.8619075 C15.6582127,10.1427958 15.7222769,9.75747936 16.690716,9.75747936 L17.98534,9.75747936 L17.98534,7 L15.9141762,7 C13.4263754,7 12.550734,8.33752269 12.550734,10.5868152 L12.550734,12.2422084 L11,12.2422084 L11,14.9993755 L12.550734,14.9993755 L12.550734,23 L15.6546943,23 Z" id="Shape" fill="#666666"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
