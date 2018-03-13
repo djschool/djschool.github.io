@@ -28,8 +28,9 @@ img {
   max-width: 100%;
   height: auto;
   width: auto;
-  vertical-align: middle;
-  margin: 0 auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 img::selection {
